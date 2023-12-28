@@ -1,0 +1,117 @@
+ManifestFileVersion: 0
+CRC: 1785122134
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6cd8be49b686da1ce0dcf617d11982d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 233e7aa070bbd9ec7464f29951ab4ac3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6cd8be49b686da1ce0dcf617d11982d7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 008ad30e5afb3544982e42aeba321a6d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7642d36ef7666214a86474ac3d555621, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Spy_battlecry01.wav
+- Assets/ModelReplacementAPI/AssetsToBuild/sniperPrefab.prefab
+- Assets/Sounds/Cm_heavy_summary_callout_06.mp3
+- Assets/Sounds/Heavy_laughterbig01.wav
+- Assets/Sounds/Sniper_jeers03.wav
+- Assets/Sounds/Scout_cheers01.wav
+- Assets/Sounds/Soldier_cloakedspy02.wav
+- Assets/Sounds/Pyro_battlecry02.wav
+- Assets/Sounds/Pyro_laughevil04.wav
+- Assets/Sounds/Medic_autocappedintelligence02.wav
+- Assets/Sounds/Demoman_go01.wav
+- Assets/Sounds/Medic_positivevocalization02.wav
+- Assets/Sounds/Sniper_go01.wav
+- Assets/ModelReplacementAPI/AssetsToBuild/pyroPrefab.prefab
+- Assets/Sounds/Cm_heavy_pregamefirst_09.mp3
+- Assets/Sounds/Engineer_cloakedspy03.wav
+- Assets/Sounds/Sniper_battlecry05.wav
+- Assets/Sounds/Demoman_cloakedspy01.wav
+- Assets/ModelReplacementAPI/AssetsToBuild/demoPrefab.prefab
+- Assets/Sounds/Heavy_jeers03.wav
+- Assets/Sounds/Scout_battlecry01.wav
+- Assets/Sounds/Scout_award08.wav
+- Assets/Sounds/Sniper_specialcompleted13.wav
+- Assets/Sounds/Engineer_cheers02.wav
+- Assets/ModelReplacementAPI/AssetsToBuild/heavyPrefab.prefab
+- Assets/Sounds/Pyro_positivevocalization01.wav
+- Assets/Sounds/Sniper_cheers02.wav
+- Assets/Sounds/Soldier_DominationSpy05.wav
+- Assets/Sounds/Demoman_battlecry06.wav
+- Assets/Sounds/Demoman_goodjob01.wav
+- Assets/Sounds/Spy_autocappedintelligence03.wav
+- Assets/Sounds/Medic_cheers01.wav
+- Assets/Sounds/Demoman_jeers01.wav
+- Assets/Sounds/Demoman_cloakedspy02.wav
+- Assets/Sounds/Heavy_specialcompleted11.wav
+- Assets/Sounds/Soldier_sf12_badmagic12.wav
+- Assets/Sounds/Spy_DominationScout01.wav
+- Assets/ModelReplacementAPI/AssetsToBuild/engineerPrefab.prefab
+- Assets/ModelReplacementAPI/AssetsToBuild/spyPrefab.prefab
+- Assets/Sounds/Heavy_positivevocalization02.wav
+- Assets/Sounds/Sniper_cheers04.wav
+- Assets/Sounds/Soldier_cheers03.wav
+- Assets/Sounds/Heavy_cloakedspy03.wav
+- Assets/Sounds/Sniper_domination13.wav
+- Assets/Sounds/Demoman_battlecry01.wav
+- Assets/Sounds/Scout_cheers05.wav
+- Assets/Sounds/Heavy_specialcompleted09.wav
+- Assets/Sounds/Scout_jeers02.wav
+- Assets/ModelReplacementAPI/AssetsToBuild/scoutPrefab.prefab
+- Assets/Sounds/Medic_cloakedspy02.wav
+- Assets/Sounds/Heavy_meleedare07.wav
+- Assets/Sounds/Soldier_cheers01.wav
+- Assets/Sounds/Engineer_dominationspy07.wav
+- Assets/Sounds/Cm_sniper_matchwon_08.mp3
+- Assets/Sounds/Pyro_jeers02.wav
+- Assets/Sounds/Soldier_cheers06.wav
+- Assets/Sounds/Cm_soldier_summary_callout_01.mp3
+- Assets/ModelReplacementAPI/AssetsToBuild/soldierPrefab.prefab
+- Assets/Sounds/Pyro_laughevil02.wav
+- Assets/Sounds/Scout_invinciblenotready02.wav
+- Assets/Sounds/Soldier_HatOverHeartTaunt02.wav
+- Assets/Sounds/Soldier_HatOverHeartTaunt01.wav
+- Assets/Sounds/Soldier_jeers01.wav
+- Assets/Sounds/Heavy_go03.wav
+- Assets/Sounds/Scout_cloakedspy03.wav
+- Assets/Sounds/Spy_taunts05.wav
+- Assets/Sounds/Scout_award09.wav
+- Assets/Sounds/Demoman_cheers02.wav
+- Assets/Sounds/Engineer_battlecry07.wav
+- Assets/Sounds/Pyro_cloakedspy01.wav
+- Assets/ModelReplacementAPI/AssetsToBuild/medicPrefab.prefab
+- Assets/Sounds/Medic_jeers05.wav
+- Assets/Sounds/Cm_heavy_matchwon_10.mp3
+- Assets/Sounds/Sniper_cloakedspy02.wav
+Dependencies: []
